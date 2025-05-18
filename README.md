@@ -29,3 +29,8 @@ To make the program user-interactive, I used a do-while loop to continuously dis
 I wrote and ran this program entirely in Dev C++, which was perfect for this type of console application. Dev C++ provides an easy way to compile and run C++ code and fully supports file handling, which made testing seamless.
 
 This type of program can be applied in many real-world scenarios, such as saving notes, generating logs, storing user data, reading configuration settings, or maintaining text-based records. Overall, this project helped me gain confidence in using file streams in C++, improved my understanding of persistent storage, and strengthened my programming logic and structure.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e2ae4f51-9f73-4129-a6b3-59a1db56712c)
+
